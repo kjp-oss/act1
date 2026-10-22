@@ -1,0 +1,149 @@
+.head1{
+background-color: bisque; 
+text-align:center; 
+padding: 60px;
+}
+
+.nav1{
+    background-color:darksalmon; 
+    padding: 50px; display: flex; 
+    justify-content: center; 
+    gap: 150px;  
+    font-size: 20px;
+}
+.nav1 a{
+    color: white;
+    text-decoration: none;
+    background-color: rgb(33, 28, 80);
+    border: 1px solid;
+    border-radius: 10px;
+}
+
+a:hover{
+    color: aqua;
+}
+
+.form1{
+    color: black;
+    
+}
+
+.div1{
+    display: flex;
+}
+
+.h1{
+    font-size: 70px;
+}
+
+.sec1{
+    background-color: rgb(161, 171, 255); 
+    padding: 300px; 
+    flex: 4;
+    font-size: 20px;
+    font-style: italic;
+    text-align: center;
+}
+
+.bod{
+    background-color: aquamarine;
+}
+.side1{
+    background-color:rgb(175, 123, 224); 
+    padding: 50px; 
+    flex: 2;
+    font-size: 50px;
+}
+
+.foot{
+    background-color: rgb(184, 169, 194); 
+    padding: 10px; 
+    text-align: center;
+}
+
+.input{
+    width: 200px;
+}
+
+.form{
+    font-size: 30px;
+}
+
+.div2{
+    text-align: center;
+    background-color: rgb(190, 226, 226);
+    border: solid black;
+    margin: auto;
+    padding: 100px;
+    box-shadow: 0 2px 6px white;
+    max-width: 700px;
+}
+
+.sec3{
+    background-color: beige;
+}
+
+.tab{
+    width: 1500px; 
+    height: 500px; 
+    border: 1px;
+    text-align: center;
+    padding: 20px;
+}
+
+.tr1{
+    background-color: gray; 
+    color: white ;
+}
+
+.tr2{
+background-color: rgb(228, 209, 184);
+}
+
+.tr3{
+background-color: rgb(211, 197, 180);
+}
+
+.tr4{
+background-color: rgb(175, 161, 142);
+}
+
+.tr5{
+background-color:rgb(136, 124, 108);
+}
+
+.tr6{
+background-color: rgb(102, 96, 87);
+}
+
+.box{
+    background-color:rgb(0, 0, 0);
+    border: 2px solid rgb(96, 94, 248);
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+}
+
+.asi{
+    background-color:rgb(175, 123, 224); 
+    padding: 50px; 
+    flex: 2;
+    font-size: 20px;
+}
+
+.sec4{
+    background-color: rgb(161, 171, 255);
+     padding: 200px; 
+     flex: 4 
+}
+
+.div4{
+    display: flex;
+}
+
+.box img{
+    align-items: center;
+    width: 200px; 
+    height: 200px; 
+    border-radius: 100px;
+}
